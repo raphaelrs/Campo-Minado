@@ -1,0 +1,14 @@
+c:\users\rribeiro\documents\visual studio 2017\Projects\BombsField\BombsField\obj\Debug\BombsField.csprojResolveAssemblyReference.cache
+c:\users\rribeiro\documents\visual studio 2017\Projects\BombsField\BombsField\obj\Debug\MainWindow.g.cs
+c:\users\rribeiro\documents\visual studio 2017\Projects\BombsField\BombsField\obj\Debug\App.g.cs
+c:\users\rribeiro\documents\visual studio 2017\Projects\BombsField\BombsField\obj\Debug\BombsField_MarkupCompile.cache
+c:\users\rribeiro\documents\visual studio 2017\Projects\BombsField\BombsField\obj\Debug\BombsField_MarkupCompile.lref
+c:\users\rribeiro\documents\visual studio 2017\Projects\BombsField\BombsField\bin\Debug\BombsField.exe.config
+c:\users\rribeiro\documents\visual studio 2017\Projects\BombsField\BombsField\bin\Debug\BombsField.exe
+c:\users\rribeiro\documents\visual studio 2017\Projects\BombsField\BombsField\bin\Debug\BombsField.pdb
+c:\users\rribeiro\documents\visual studio 2017\Projects\BombsField\BombsField\obj\Debug\MainWindow.baml
+c:\users\rribeiro\documents\visual studio 2017\Projects\BombsField\BombsField\obj\Debug\BombsField.g.resources
+c:\users\rribeiro\documents\visual studio 2017\Projects\BombsField\BombsField\obj\Debug\BombsField.Properties.Resources.resources
+c:\users\rribeiro\documents\visual studio 2017\Projects\BombsField\BombsField\obj\Debug\BombsField.csproj.GenerateResource.Cache
+c:\users\rribeiro\documents\visual studio 2017\Projects\BombsField\BombsField\obj\Debug\BombsField.exe
+c:\users\rribeiro\documents\visual studio 2017\Projects\BombsField\BombsField\obj\Debug\BombsField.pdb
